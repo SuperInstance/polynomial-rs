@@ -1,0 +1,13 @@
+[package]
+name = "polynomial-rs"
+version = "0.1.0"
+edition = "2021"
+authors = ["SuperInstance"]
+description = "Polynomial arithmetic with FFT-based multiplication, evaluation, and Newton's method root finding"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/SuperInstance/polynomial-rs"
+keywords = ["polynomial", "fft", "roots", "math", "algebra"]
+categories = ["mathematics", "algorithms", "science"]
+readme = "README.md"
+
+[dependencies]
